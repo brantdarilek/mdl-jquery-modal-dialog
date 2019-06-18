@@ -1,0 +1,24 @@
+{
+  "name": "mdl-jquery-modal-dialog",
+  "version": "1.0.0",
+  "description": "Basic modal dialogs using MDL and jQuery",
+  "main": "mdl-jquery-modal-dialog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brantdarilek/mdl-jquery-modal-dialog.git"
+  },
+  "keywords": [
+    "jquery",
+    "modal",
+    "material-design-lite"
+  ],
+  "author": "Oliver Rennies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brantdarilek/mdl-jquery-modal-dialog/issues"
+  },
+  "homepage": "https://github.com/brantdarilek/mdl-jquery-modal-dialog#readme"
+}
